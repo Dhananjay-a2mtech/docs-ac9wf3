@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-cagldd.sbctoto67bon.cyou/sitemap.xml
